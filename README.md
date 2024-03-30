@@ -1,7 +1,7 @@
 # belajar-git
 Selamat datang di belajar-git upload file! di sini akan belajar langkah-langkah dasar untuk menggunakan GitHub, serta cara mengunggah file ke repositori.
 
-## Langkah 1: Membuat Repositori
+##  Membuat Repositori
 
 1. Buka situs web GitHub di [github.com](https://github.com).
 2. Masuk ke akun GitHub atau buat akun baru jika belum memiliki akun.
@@ -10,7 +10,7 @@ Selamat datang di belajar-git upload file! di sini akan belajar langkah-langkah 
 5. Pilih opsi untuk membuat repositori publik atau privat, sesuai yang di butuhkan.
 6. Klik tombol "Create repository" untuk membuat repositori baru.
 
-## Langkah 2: Mengunggah File
+##  Mengunggah File
 
 1. Setelah membuat repositori, maka akan diarahkan ke halaman repositori tersebut.
 2. Klik tombol "Add file" di bagian atas halaman, kemudian pilih "Upload files".
